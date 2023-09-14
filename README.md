@@ -1,2 +1,2 @@
-# portfolio
-I've designed a user-friendly experience using HTML and CSS. Explore the 'About' tab for basic information about me and my background. In the 'Academics' tab, you can delve into my academic journey.For connection and contact, visit the 'Contact' tab, where you'll find my email address and links to my LinkedIn and GitHub profiles.
+# Portfolio-Website
+This is a beginner friendly portfolio website using HTML And CSS. The website has About tab which consists of basic information of the user,Academics tab which has information about academic background of the user , Projects tab which has links to projects done bye the user and the contact tab which contain email address of the user ,link to LinkedIn, GitHub account.
